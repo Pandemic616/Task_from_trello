@@ -38,4 +38,3 @@ class Word:
 filename = Word(input())
 filename.word_search_in_for()
 filename.word_search_in_while()
-g
